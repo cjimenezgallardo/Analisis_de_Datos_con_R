@@ -1,0 +1,11 @@
+.container {
+  max-width: 1200px;
+}
+div#TOC {
+  width: 300px !important; /* o el ancho que desees */
+}
+
+/* Mueve el contenido principal para dejar espacio al TOC más ancho */
+body {
+  margin-left: 0px !important;
+}
